@@ -1,0 +1,3 @@
+posicionar os arquivos .ttf em /usr/share/fonts
+utilizar o comando fc-cache
+verificar com o comando fc-list
