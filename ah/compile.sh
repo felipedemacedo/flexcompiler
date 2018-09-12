@@ -1,0 +1,1 @@
+mxmlc -load-config+=flex/obj/ah_inteligConfig.xml -locale en_US -services ./flex/config/services-config.xml
